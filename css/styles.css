@@ -22,3 +22,20 @@
 .red-background {
   background-color: red;
 }
+
+.clickable2 {
+  cursor: pointer;
+  color: #ff34fe;
+}
+
+.clickable2:hover {
+  text-decoration: underline;
+}
+
+.clickable3 {
+  cursor: pointer;
+  color: #11f70f;
+}
+.clickable3:hover {
+  text-decoration: underline;
+}

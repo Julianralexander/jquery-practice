@@ -31,3 +31,13 @@ $(document).ready(function() {
     $("body").addClass("red-background");
   });
 });
+
+$(document).ready(function() {
+  $(".clickable2").click(function() {
+    alert("Julian thinks you're hot") }) ;
+});
+
+$(document).ready(function() {
+  $(".clickable3").click(function() {
+    alert("Julian doesn't know if you're hot") }) ; 
+});
